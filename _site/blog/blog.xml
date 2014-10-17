@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	
-	<title type="text" xml:lang="en">Awesome Research Group</title>
+	<title type="text" xml:lang="en">Bo Wu</title>
     <link type="application/atom+xml" href="http://bo-wu.github.io/blog/blog.xml" rel="self"/>
     <link href="http://bo-wu.github.io/"/>
-	<updated>2014-10-17T10:46:55+08:00</updated>
+	<updated>2014-10-17T11:31:16+08:00</updated>
     <id>http://bo-wu.github.io/</id>
 	<author>
 		<name>the Sampa group</name>
